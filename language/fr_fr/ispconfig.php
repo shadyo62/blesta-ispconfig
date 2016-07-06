@@ -85,7 +85,7 @@ $lang['Ispconfig.service_field.tooltip.contactname'] = "Vous pouvez laisser le n
 $lang['Ispconfig.service_field.tooltip.username'] = "Vous pouvez laisser le nom d'utilisateur vide pour générer automatiquement un.";
 $lang['Ispconfig.service_field.tooltip.password'] = "Vous pouvez laisser le mot de passe vide pour générer automatiquement un.";
 $lang['Ispconfig.service_field.tooltip.client_id'] = "Cela ne devrait être saisie manuellement lors de la création d'un nouveau service de Blesta pour un client qui existe déjà dans ISPConfig.
-        Dans ce cas, décochez  "Provision en utilisant le module ISPConfig", et entrez l'ID que vous voyez dans le panneau ISPConfig dans Client / clients. Le service Blesta sera alors connecté au client compte ISPConfig";
+        Dans ce cas, décochez  'Provision en utilisant le module ISPConfig', et entrez l'ID que vous voyez dans le panneau ISPConfig dans Client / clients. Le service Blesta sera alors connecté au client compte ISPConfig";
 $lang['Ispconfig.service_field.tooltip.domain'] = "Si vous avez besoin des domaines supplémentaires, vous pouvez les commander via notre formulaire de commande de domaine, et les configurer dans votre compte d'hébergement.";
 $lang['Ispconfig.service_field.existing_domain'] = "Le domaine existe déjà et doit être transféré";
 // Errors
